@@ -14,7 +14,7 @@ In this lab you've learned the basics of number theory as it relates to addition
 ## Lab Questions
 
 ### 1 - How might you add more than two bits together?
-
+For each bit that you have use another full adder
 ### 2 - What is the importance of the XOR gate in an adder?
 
 ### 3 - What is the largest number a two bit adder can handle? What happens when you go over?
